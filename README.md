@@ -2,6 +2,8 @@
 
 ### Fullstack Web Developer | Backend Specialist | SaaS & Cloud Engineer
 
+🌐 Portafolio: [kellycreativo.net](https://kellycreativo.net)
+
 Soy un Ingeniero de Software con **más de 12 años de experiencia** diseñando y desarrollando aplicaciones escalables, seguras y de alto rendimiento. Mi enfoque principal radica en el backend, la infraestructura cloud y la implementación de arquitecturas limpias (SOLID, DDD) para construir productos SaaS robustos.
 
 ---
@@ -50,12 +52,12 @@ Soy un Ingeniero de Software con **más de 12 años de experiencia** diseñando 
 
 - 🚢 **[Navasca CRM — Gestión Logística Naviera](https://github.com/massivocreativo-collab/Navasca-intranet.ve)**: CRM integral para operaciones navieras (bookings, itinerarios, seguimiento de carga en tiempo real y gestión de usuarios). Construido con Next.js 16, TypeScript, Prisma y PostgreSQL.
 - ⚓ **[TGR — Gestión Logística Portuaria](https://github.com/grupomassivo/demo-tgr-template)**: Plataforma multiempresa (multi-tenant) para operadoras logísticas portuarias: acarreos, flota, taller, procura y auditoría. Backend en NestJS 11 + Prisma + PostgreSQL con RBAC por permisos; frontend en Next.js 16 + React 19 + Tailwind CSS.
-- 🍽️ **[Gastro Suite — SaaS para Gastronomía](https://github.com/developcreativo/gastro-suite)**: Sistema de gestión integral multi-tenant y multi-sucursal para negocios gastronómicos (menú, pedidos, producción, cobro, stock y reportes). Monorepo con NestJS 11, React 19, Prisma y Supabase.
-- 📦 **[FulfillEC App](https://github.com/developcreativo/fulfillec-app)**: Aplicación de gestión de fulfillment y e-commerce desarrollada con TypeScript.
-- 🛒 **Marketplace Multivendor** ([Backend](https://github.com/developcreativo/marketplace-multivendor-backend) · [Frontend](https://github.com/developcreativo/marketplace-multivendor-frontend)): Plataforma de marketplace multi-vendedor con API en Node.js/JavaScript y frontend desacoplado.
-- 🔄 **[MHI Workflow Orchestrator](https://github.com/developcreativo/mhi-workflow-orchestrator)**: Orquestador de flujos de trabajo desarrollado en Python para automatizar y coordinar procesos.
+- 🍽️ **[Gastro Suite — SaaS para Gastronomía](https://github.com/kellycreativo/gastro-suite)**: Sistema de gestión integral multi-tenant y multi-sucursal para negocios gastronómicos (menú, pedidos, producción, cobro, stock y reportes). Monorepo con NestJS 11, React 19, Prisma y Supabase.
+- 📦 **[FulfillEC App](https://github.com/kellycreativo/fulfillec-app)**: Aplicación de gestión de fulfillment y e-commerce desarrollada con TypeScript.
+- 🛒 **Marketplace Multivendor** ([Backend](https://github.com/kellycreativo/marketplace-multivendor-backend) · [Frontend](https://github.com/kellycreativo/marketplace-multivendor-frontend)): Plataforma de marketplace multi-vendedor con API en Node.js/JavaScript y frontend desacoplado.
+- 🔄 **[MHI Workflow Orchestrator](https://github.com/kellycreativo/mhi-workflow-orchestrator)**: Orquestador de flujos de trabajo desarrollado en Python para automatizar y coordinar procesos.
 - 🧾 **[Fodoo — Electronic Invoicing Connector](https://github.com/jtorreskuantor/fodoo)**: Sistema automatizado para procesar facturas electrónicas desde Odoo y enviarlas al PAC (Proveedor Autorizado de Certificación) de Panamá para su timbrado oficial.
-- 🔗 **[MeliBridge](https://github.com/developcreativo/MeliBridge)**: Middleware de sincronización entre el catálogo del proveedor Gonher y el marketplace Mercado Libre México. Automatiza la publicación de productos, actualización de precios e inventario, normalización de imágenes y gestión del OAuth 2.0.
+- 🔗 **[MeliBridge](https://github.com/kellycreativo/MeliBridge)**: Middleware de sincronización entre el catálogo del proveedor Gonher y el marketplace Mercado Libre México. Automatiza la publicación de productos, actualización de precios e inventario, normalización de imágenes y gestión del OAuth 2.0.
 - 🏭 **Sistema de Gestión de Inventario**: Sistema robusto desarrollado en Laravel que refactoriza y mejora un prototipo previo basado en PHP y MySQL, cumpliendo con requisitos de seguridad y trazabilidad para operaciones de exportación.
 
 *Explora mis repositorios a continuación para ver implementaciones de arquitecturas escalables y buenas prácticas de código.*
@@ -67,8 +69,8 @@ Soy un Ingeniero de Software con **más de 12 años de experiencia** diseñando 
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=developcreativo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developcreativo&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kellycreativo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellycreativo&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
@@ -78,10 +80,10 @@ Soy un Ingeniero de Software con **más de 12 años de experiencia** diseñando 
 Siempre estoy abierto a discutir sobre arquitectura de software, integraciones SaaS y nuevos retos tecnológicos.
 
 <div align="center">
-  <a href="https://www.developmentcreativo.net" target="_blank">
+  <a href="https://kellycreativo.net" target="_blank">
     <img src="https://img.shields.io/badge/Sitio_Web-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sitio Web" />
   </a>
-  <a href="https://www.linkedin.com/in/developcreativo" target="_blank">
+  <a href="https://www.linkedin.com/in/kellycreativo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:developmentcreativo@gmail.com">
