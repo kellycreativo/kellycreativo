@@ -50,15 +50,17 @@ Soy un Ingeniero de Software con **más de 12 años de experiencia** diseñando 
 
 ### 🚀 Proyectos Destacados
 
-- 🚢 **[Navasca CRM — Gestión Logística Naviera](https://github.com/massivocreativo-collab/Navasca-intranet.ve)**: CRM integral para operaciones navieras (bookings, itinerarios, seguimiento de carga en tiempo real y gestión de usuarios). Construido con Next.js 16, TypeScript, Prisma y PostgreSQL.
-- ⚓ **[TGR — Gestión Logística Portuaria](https://github.com/grupomassivo/demo-tgr-template)**: Plataforma multiempresa (multi-tenant) para operadoras logísticas portuarias: acarreos, flota, taller, procura y auditoría. Backend en NestJS 11 + Prisma + PostgreSQL con RBAC por permisos; frontend en Next.js 16 + React 19 + Tailwind CSS.
-- 🍽️ **[Gastro Suite — SaaS para Gastronomía](https://github.com/kellycreativo/gastro-suite)**: Sistema de gestión integral multi-tenant y multi-sucursal para negocios gastronómicos (menú, pedidos, producción, cobro, stock y reportes). Monorepo con NestJS 11, React 19, Prisma y Supabase.
+- 🚢 **Navasca CRM — Gestión Logística Naviera** · 🔒 *Repositorio privado*: CRM integral para operaciones navieras (bookings, itinerarios, seguimiento de carga en tiempo real y gestión de usuarios). Construido con Next.js 16, TypeScript, Prisma y PostgreSQL.
+- ⚓ **TGR — Gestión Logística Portuaria** · 🔒 *Repositorio privado*: Plataforma multiempresa (multi-tenant) para operadoras logísticas portuarias: acarreos, flota, taller, procura y auditoría. Backend en NestJS 11 + Prisma + PostgreSQL con RBAC por permisos; frontend en Next.js 16 + React 19 + Tailwind CSS.
+- 🍽️ **Gastro Suite — SaaS para Gastronomía** · 🔒 *Repositorio privado*: Sistema de gestión integral multi-tenant y multi-sucursal para negocios gastronómicos (menú, pedidos, producción, cobro, stock y reportes). Monorepo con NestJS 11, React 19, Prisma y Supabase.
 - 📦 **[FulfillEC App](https://github.com/kellycreativo/fulfillec-app)**: Aplicación de gestión de fulfillment y e-commerce desarrollada con TypeScript.
 - 🛒 **Marketplace Multivendor** ([Backend](https://github.com/kellycreativo/marketplace-multivendor-backend) · [Frontend](https://github.com/kellycreativo/marketplace-multivendor-frontend)): Plataforma de marketplace multi-vendedor con API en Node.js/JavaScript y frontend desacoplado.
 - 🔄 **[MHI Workflow Orchestrator](https://github.com/kellycreativo/mhi-workflow-orchestrator)**: Orquestador de flujos de trabajo desarrollado en Python para automatizar y coordinar procesos.
-- 🧾 **[Fodoo — Electronic Invoicing Connector](https://github.com/jtorreskuantor/fodoo)**: Sistema automatizado para procesar facturas electrónicas desde Odoo y enviarlas al PAC (Proveedor Autorizado de Certificación) de Panamá para su timbrado oficial.
-- 🔗 **[MeliBridge](https://github.com/kellycreativo/MeliBridge)**: Middleware de sincronización entre el catálogo del proveedor Gonher y el marketplace Mercado Libre México. Automatiza la publicación de productos, actualización de precios e inventario, normalización de imágenes y gestión del OAuth 2.0.
+- 🧾 **Fodoo — Electronic Invoicing Connector** · 🔒 *Repositorio privado*: Sistema automatizado para procesar facturas electrónicas desde Odoo y enviarlas al PAC (Proveedor Autorizado de Certificación) de Panamá para su timbrado oficial.
+- 🔗 **MeliBridge** · 🔒 *Repositorio privado*: Middleware de sincronización entre el catálogo del proveedor Gonher y el marketplace Mercado Libre México. Automatiza la publicación de productos, actualización de precios e inventario, normalización de imágenes y gestión del OAuth 2.0.
 - 🏭 **Sistema de Gestión de Inventario**: Sistema robusto desarrollado en Laravel que refactoriza y mejora un prototipo previo basado en PHP y MySQL, cumpliendo con requisitos de seguridad y trazabilidad para operaciones de exportación.
+
+*🔒 Los proyectos marcados como privados no tienen código público; puedo contarte más sobre ellos en una conversación.*
 
 *Explora mis repositorios a continuación para ver implementaciones de arquitecturas escalables y buenas prácticas de código.*
 
@@ -69,7 +71,7 @@ Soy un Ingeniero de Software con **más de 12 años de experiencia** diseñando 
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kellycreativo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kellycreativo&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellycreativo&layout=compact&theme=tokyonight"/>
 </div>
 
